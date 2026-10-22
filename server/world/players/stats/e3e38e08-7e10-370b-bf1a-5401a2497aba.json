@@ -1,0 +1,80 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:wooden_axe": 19,
+      "minecraft:crafting_table": 4,
+      "minecraft:wooden_pickaxe": 79,
+      "minecraft:granite": 3,
+      "minecraft:dirt": 21
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 60,
+      "minecraft:wooden_axe": 2,
+      "minecraft:wooden_pickaxe": 2,
+      "minecraft:dark_oak_planks": 72,
+      "minecraft:birch_planks": 16,
+      "minecraft:crafting_table": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 4
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:cow": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:dirt": 40,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stick": 1,
+      "minecraft:cobblestone": 74,
+      "minecraft:stone_hoe": 1,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:bone": 2,
+      "minecraft:arrow": 1,
+      "minecraft:beef": 3,
+      "minecraft:dark_oak_planks": 3,
+      "minecraft:leaf_litter": 32,
+      "minecraft:stone_sword": 1,
+      "minecraft:birch_log": 4,
+      "minecraft:granite": 7,
+      "minecraft:dark_oak_log": 18
+    },
+    "minecraft:mined": {
+      "minecraft:granite": 7,
+      "minecraft:dark_oak_log": 18,
+      "minecraft:dirt": 18,
+      "minecraft:crafting_table": 2,
+      "minecraft:birch_log": 4,
+      "minecraft:leaf_litter": 4,
+      "minecraft:grass_block": 5,
+      "minecraft:stone": 37
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 6,
+      "minecraft:time_since_rest": 7201,
+      "minecraft:walk_one_cm": 56283,
+      "minecraft:leave_game": 12,
+      "minecraft:walk_under_water_one_cm": 94,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 1229,
+      "minecraft:play_time": 19940,
+      "minecraft:damage_dealt": 985,
+      "minecraft:jump": 439,
+      "minecraft:time_since_death": 7181,
+      "minecraft:sprint_one_cm": 32320,
+      "minecraft:fall_one_cm": 13753,
+      "minecraft:total_world_time": 19940,
+      "minecraft:swim_one_cm": 4187,
+      "minecraft:fly_one_cm": 33260,
+      "minecraft:walk_on_water_one_cm": 2701,
+      "minecraft:crouch_one_cm": 1271,
+      "minecraft:sneak_time": 1114,
+      "minecraft:climb_one_cm": 582,
+      "minecraft:deaths": 4,
+      "minecraft:player_kills": 1
+    }
+  },
+  "DataVersion": 4903
+}

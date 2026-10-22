@@ -1,0 +1,73 @@
+  # Firebase project settings. The API key is a project identifier, not the server password.
+firebase:
+  api-key: "AIzaSyAgOggS_nTmOubBXXg6mjI9twxsOgRlluk"
+  database-url: "https://ilikespacedotcom-default-rtdb.firebaseio.com"
+  email: "minecraft-server@example.com"
+  password: "butterontoastwithextrabutter"
+  # Optional safety check. Paste the Authentication UID for the server account.
+  expected-uid: ""
+
+chat:
+  # Avern channel to bridge with Minecraft.
+  # game-chat is stored at /chat. Other channels are stored at /channels/<name>.
+  avern-channel: "minecraft-club-server"
+
+  # Usually leave this blank. Use it only if you want to specify the exact
+  # Realtime Database path yourself, such as "channels/server-chat".
+  database-path-override: ""
+  minecraft-to-avern: true
+  avern-to-minecraft: true
+  # 40 ticks = 2 seconds. Minimum accepted value is 20 ticks.
+  poll-interval-ticks: 40
+  max-message-length: 500
+  web-format: "&8&l[Avern] &7&l{user}&7&l: &7{message}"
+  server-name: "Minecraft"
+  # Existing MC chat still displays normally. This only controls the Firebase copy.
+  include-minecraft-prefix-in-avern: false
+
+# Templates for messages sent to Firebase. Placeholders are replaced before sending.
+firebase-messages:
+  # Player chat: {message}, {player}, and {server}
+  chat: "{message}"
+  # Server events: {player}, {advancement}, and {server}
+  join: "***yellow: **{player} joined the game** ***"
+  leave: "***yellow: **{player} left the game** ***"
+  advancement: "***green: **{player} has made the advancement [{advancement}]** ***"
+  # Death message: {message}, {player}, and {server}
+  death: "***grey: **{message}** ***"
+  # /playerlist responses: {online}, {maximum}, {players}, and {server}
+  player-list: "Online players ({online}/{maximum}): {players}"
+  no-players: "Online players (0/{maximum}): No players online"
+  # Cooldown response: {seconds} and {server}
+  player-list-cooldown: "Please wait {seconds} second(s) before using /playerlist again."
+  # Server lifecycle messages: {server}
+  server-start: "***green: **{server} server started** ***"
+  server-stop: "***red: **{server} server stopped** ***"
+
+debug: false
+
+  # Enables /playerlist from the connected Avern channel.
+player-list-command-enabled: true
+
+  # Prevents repeated requests from spamming Firebase.
+player-list-cooldown-seconds: 3
+
+  # Username used for automatic responses.
+bridge-username: "club-server"
+
+events:
+  joins: true
+  leaves: true
+  advancements: true
+  deaths: true
+  server-start: true
+  server-stop: true
+
+uptime:
+  enabled: true
+  show-on-join: true
+  # {days} is the number of complete Minecraft days in the primary world (24000 ticks each).
+  # {day-word} is "day" or "days".
+  message: "&eThis world has been running for &6{days} &eMinecraft {day-word}."
+
+  

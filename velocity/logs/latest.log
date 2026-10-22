@@ -1,0 +1,21 @@
+[00:06:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] JAYTHEJAMAICAN (/[0:0:0:0:0:0:0:1]:54560) has disconnected
+[00:06:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] JAYTHEJAMAICAN -> lobby has disconnected
+[00:17:00] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] ilkspacedtcm (/[0:0:0:0:0:0:0:1]:44234) has disconnected
+[00:17:00] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ilkspacedtcm -> lobby has disconnected
+[00:40:58] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] ilkspacedtcm (/[0:0:0:0:0:0:0:1]:53468) has connected
+[00:40:58] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ilkspacedtcm -> lobby has connected
+[01:41:53] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Da_Doge_Dog (/[0:0:0:0:0:0:0:1]:52842) has disconnected
+[01:41:53] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Da_Doge_Dog -> lobby has disconnected
+[01:43:19] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Da_Doge_Dog (/[0:0:0:0:0:0:0:1]:39920) has connected
+[01:43:19] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Da_Doge_Dog -> lobby has connected
+[01:50:50] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] ilkspacedtcm (/[0:0:0:0:0:0:0:1]:53468) has disconnected
+[01:50:50] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ilkspacedtcm -> lobby has disconnected
+[01:50:54] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Da_Doge_Dog (/[0:0:0:0:0:0:0:1]:39920): kicked from server lobby: Server closed
+[01:50:54] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Da_Doge_Dog -> lobby has disconnected
+[01:50:55] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Da_Doge_Dog (/[0:0:0:0:0:0:0:1]:39920) has disconnected: You were kicked from lobby: Server closed
+[01:50:58] [main/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: This command does not exist.
+[01:50:59] [Thread-3/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[01:50:59] [Thread-3/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
+[01:50:59] [EaglercraftXServer - Task Executor #3/INFO] [eaglerxserver]: Disabling EaglercraftXServer 1.1.1...
+[01:50:59] [EaglercraftXServer - Task Executor #3/INFO] [eaglerxserver]: Disconnecting from skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[01:50:59] [EaglercraftXServer - Task Executor #3/INFO] [eaglerxserver]: Disconnected from skin cache database successfully!

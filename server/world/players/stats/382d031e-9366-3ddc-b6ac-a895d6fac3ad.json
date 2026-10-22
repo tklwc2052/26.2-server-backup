@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:leaf_litter": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:stick": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 2,
+      "minecraft:dark_oak_planks": 84,
+      "minecraft:crafting_table": 2
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 4
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1,
+      "minecraft:spider": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 3,
+      "minecraft:stick": 13,
+      "minecraft:stone_hoe": 1,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:bone": 2,
+      "minecraft:oak_sapling": 2,
+      "minecraft:beef": 4,
+      "minecraft:apple": 1,
+      "minecraft:leaf_litter": 11,
+      "minecraft:sand": 26,
+      "minecraft:birch_log": 5,
+      "minecraft:dark_oak_log": 27
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:dark_oak_leaves": 1,
+      "minecraft:dark_oak_log": 27,
+      "minecraft:oak_leaves": 1,
+      "minecraft:birch_log": 5,
+      "minecraft:leaf_litter": 4
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 3453,
+      "minecraft:walk_one_cm": 43621,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 783,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 1266,
+      "minecraft:play_time": 20661,
+      "minecraft:damage_dealt": 518,
+      "minecraft:jump": 377,
+      "minecraft:time_since_death": 3433,
+      "minecraft:drop": 3,
+      "minecraft:interact_with_furnace": 1,
+      "minecraft:sprint_one_cm": 45445,
+      "minecraft:fall_one_cm": 10025,
+      "minecraft:total_world_time": 20661,
+      "minecraft:swim_one_cm": 7972,
+      "minecraft:fly_one_cm": 41351,
+      "minecraft:walk_on_water_one_cm": 12548,
+      "minecraft:crouch_one_cm": 163,
+      "minecraft:sneak_time": 77,
+      "minecraft:deaths": 4,
+      "minecraft:player_kills": 1
+    }
+  },
+  "DataVersion": 4903
+}

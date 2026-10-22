@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:rotten_flesh": 2,
+      "minecraft:leaf_litter": 12,
+      "minecraft:bamboo": 40,
+      "minecraft:melon_slice": 12
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 3,
+      "minecraft:drowned": 1,
+      "minecraft:spider": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:enderman": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:tropical_fish": 1,
+      "minecraft:leaf_litter": 12,
+      "minecraft:ender_pearl": 1,
+      "minecraft:dirt": 2,
+      "minecraft:oak_log": 2,
+      "minecraft:copper_ingot": 1,
+      "minecraft:melon_slice": 17,
+      "minecraft:bamboo": 122,
+      "minecraft:sand": 3,
+      "minecraft:bone_meal": 1,
+      "minecraft:rotten_flesh": 2,
+      "minecraft:dark_oak_log": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 28183,
+      "minecraft:walk_one_cm": 26844,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 6819,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 473,
+      "minecraft:play_time": 32011,
+      "minecraft:damage_dealt": 1193,
+      "minecraft:jump": 182,
+      "minecraft:time_since_death": 28163,
+      "minecraft:sprint_one_cm": 23753,
+      "minecraft:fall_one_cm": 1850,
+      "minecraft:total_world_time": 32011,
+      "minecraft:swim_one_cm": 14118,
+      "minecraft:fly_one_cm": 12700,
+      "minecraft:walk_on_water_one_cm": 23104,
+      "minecraft:crouch_one_cm": 1142,
+      "minecraft:sneak_time": 842,
+      "minecraft:climb_one_cm": 88,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 5,
+      "minecraft:melon": 3,
+      "minecraft:fern": 2,
+      "minecraft:sand": 3,
+      "minecraft:dark_oak_log": 6,
+      "minecraft:bamboo_sapling": 1,
+      "minecraft:podzol": 2,
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_log": 2,
+      "minecraft:bamboo": 24
+    }
+  },
+  "DataVersion": 4903
+}
